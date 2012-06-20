@@ -2,7 +2,7 @@
 # Ignores all WordPress core files and server-specific configuration in the project's repository.
 # Exceptions should be added for themes, plugins etc. that should be specifically included.
 
-# Ignore everything in the root except the "wp-content" directory.
+# Ignore almost everything in the root except the "wp-content" directory.
 /*
 .DS_Store
 !.gitignore
